@@ -17,11 +17,11 @@ You can always find me on **Discord** `@xMrVideo#0001`, I'd love to chat with yo
 
 ## What I am learning
 * JavaScript
-* Haskell
-
-## What I want to learn in the future
 * C++
 * C# and Unity
+
+## What I want to learn in the future
+* Haskell
 * x86 Assembly
 
 <!--
