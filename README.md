@@ -9,18 +9,23 @@ I am trying to learn as much as I can, and hopefully this GitHub profile will pr
 
 You can always find me on **Discord** `@xMrVideo#0001`, I'd love to chat with you!
 
+You can also visit [my website](https://mariomerlo.me) to find out more about me.
+
 ## What I know
+
 * C
 * Python
 * HTML
 * CSS
 
 ## What I am learning
+
 * JavaScript
 * C++
 * C# and Unity
 
 ## What I want to learn in the future
+
 * Haskell
 * x86 Assembly
 
