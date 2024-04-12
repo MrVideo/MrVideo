@@ -1,6 +1,3 @@
 # Hello, world!
 
-Contacts:
-
-- [Blog](https://mariomerlo.me)
-- <a rel="me" href="https://mastodon.social/@mrvideo">Mastodon</a>
+I really don't know what to write here, so check out my [blog](https://mariomerlo.me)
